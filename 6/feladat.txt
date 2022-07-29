@@ -1,0 +1,2 @@
+Írj egy Python programot, amely bekér három egész számot a felhasználótól és kiírja a
+képernyőre, hogy mind a három páros szám-e (igen/nem)!

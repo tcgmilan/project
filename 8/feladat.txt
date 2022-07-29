@@ -1,0 +1,2 @@
+Írj egy Python programot, amely bekér egy pozitív egész számot a felhasználótól és kiírja a
+képernyőre azokat a pozitív hárommal osztható számokat, amelyek kisebbek az adott számnál!

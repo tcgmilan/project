@@ -1,0 +1,2 @@
+Írj egy Python programot, amely bekér három számot a felhasználótól,
+és kiírja a képernyőre a legkisebb értéket ezek közül!

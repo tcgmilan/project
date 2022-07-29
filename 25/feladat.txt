@@ -1,0 +1,2 @@
+Írj egy Python programot, amely a szamok.txt fájlba írja a 100 legkisebb 3-mal osztható pozitív
+egész számot!

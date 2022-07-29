@@ -1,0 +1,2 @@
+Írj egy Python programot, amely bekér egy egész számot a felhasználótól és kiírja a képernyőre,
+hogy osztható-e (igen/nem) a szám 3-mal vagy 5-tel! 

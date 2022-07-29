@@ -1,0 +1,2 @@
+Írj egy Python programot, amely a temp.txt szöveges fájl minden második szavát (szóközzel
+elválasztott részsztringjét) a képernyőre írja!

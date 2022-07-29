@@ -1,0 +1,2 @@
+Írj egy Python programot, amely bekér három számot a felhasználótól és kiírja a képernyőre,
+hogy a számok közül bármelyik kettőnek az összege egyenlő-e a harmadik számmal!

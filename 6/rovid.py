@@ -1,0 +1,1 @@
+print("Mindhárom szám páros") if int(input("Első szám: ")) % 2 == 0 and int(input("Második szám: ")) % 2 == 0 and int(input("Harmadik szám: ")) % 2 == 0 else print("Valamelyik szám nem páros!")
